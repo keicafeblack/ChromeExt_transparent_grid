@@ -15,7 +15,9 @@ Web会議の画面共有やデザイン確認をスムーズにする、座標�
 簡単操作: ツールバーのアイコンをクリックするだけで瞬時にON/OFF。
 
 🌟 詳細
+
 Protopediaで詳細を載せています。
+
 　https://protopedia.net/prototype/7640
 
 
