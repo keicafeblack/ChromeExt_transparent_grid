@@ -1,4 +1,4 @@
-透過グリッド君 (Transparent Grid-kun)
+# 透過グリッド君 (Transparent Grid-kun)
 
 Web会議の画面共有やデザイン確認をスムーズにする、座標表示付きの透過グリッドChrome拡張機能です。
 <img width="1024" height="420" alt="image" src="https://github.com/user-attachments/assets/5f48d4a8-1119-4deb-822d-174682ea0109" />
